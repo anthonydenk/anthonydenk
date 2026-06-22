@@ -8,7 +8,7 @@ I use AI agents to turn ideas into real software that actually makes it into peo
 
 ## 🚀 What I'm building & exploring
 
-- 🏀 **Zone X** — Computer vision for basketball & volleyball. Game film in, performance intelligence out: detection, tracking, GPU inference, automated reporting. *First Power 4 customer: University of Missouri Athletics.*
+- 🏀 **Zone X** — Computer vision for basketball & volleyball. Game film in, performance intelligence out: detection, tracking, GPU inference, automated reporting. *First NCAA Power 4 customer*
 - 🗣️ **SAID Translations** — An offline, on-device AI interpreter for moments the cloud can't reach: medical, legal, government, remote settings. *Runs entirely on-device. Private by design.*
 - 📊 **EnVision** — Procurement pricing intelligence that helps buyers understand what they're actually paying.
 - 🧭 **Inflection Capital** — Product & technical advisory.
