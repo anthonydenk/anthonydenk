@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-📍 **Phoenix / Scottsdale, AZ** · 🤖 **curious product builder + vibe coder**
+📍 **Phoenix / Scottsdale, AZ** · 🤖 **curious product builder**
 
 I use AI agents to turn ideas into real software that actually makes it into people's hands — and I spend a lot of time thinking about where this is all going. I didn't come up the traditional way (Air Force → logistics → MBA → product, not a CS degree), which is half the fun: I get to find out how far curiosity plus agents can take one person, and I do it in public.
 
